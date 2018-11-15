@@ -1,0 +1,157 @@
+ #EXTM3U
+#EXTINF:-1,Uk | Bbc1
+http://formen1.com:8080/live/rasit35/35rasit/1142.ts
+#EXTINF:-1,Uk | Bbc2
+http://formen1.com:8080/live/rasit35/35rasit/1141.ts
+#EXTINF:-1,Uk | Bbc Earth
+http://formen1.com:8080/live/rasit35/35rasit/1140.ts
+#EXTINF:-1,Uk | Cbsaction
+http://formen1.com:8080/live/rasit35/35rasit/1136.ts
+#EXTINF:-1,Uk | Cbsdrama
+http://formen1.com:8080/live/rasit35/35rasit/1137.ts
+#EXTINF:-1,Uk | Cbsreality
+http://formen1.com:8080/live/rasit35/35rasit/1138.ts
+#EXTINF:-1,Uk | Channel4
+http://formen1.com:8080/live/rasit35/35rasit/1135.ts
+#EXTINF:-1,Uk | Channel5
+http://formen1.com:8080/live/rasit35/35rasit/1134.ts
+#EXTINF:-1,Uk | Comedycentral
+http://formen1.com:8080/live/rasit35/35rasit/1133.ts
+#EXTINF:-1,Uk | Discovery Science Hd
+http://formen1.com:8080/live/rasit35/35rasit/1127.ts
+#EXTINF:-1,Uk | Discovery Turbo Hd
+http://formen1.com:8080/live/rasit35/35rasit/1126.ts
+#EXTINF:-1,Uk | Discoverychannelhd
+http://formen1.com:8080/live/rasit35/35rasit/1130.ts
+#EXTINF:-1,Uk | Discoveryshed
+http://formen1.com:8080/live/rasit35/35rasit/1128.ts
+#EXTINF:-1,Uk | Disneychannel
+http://formen1.com:8080/live/rasit35/35rasit/1131.ts
+#EXTINF:-1,Uk | Disneyjunior
+http://formen1.com:8080/live/rasit35/35rasit/1132.ts
+#EXTINF:-1,Uk | Dmax.
+http://formen1.com:8080/live/rasit35/35rasit/1100.ts
+#EXTINF:-1,Uk | Eurosport1
+http://formen1.com:8080/live/rasit35/35rasit/1095.ts
+#EXTINF:-1,Uk | Eurosport 2
+http://formen1.com:8080/live/rasit35/35rasit/1094.ts
+#EXTINF:-1,Uk | Itv1
+http://formen1.com:8080/live/rasit35/35rasit/1146.ts
+#EXTINF:-1,Uk | Itv2
+http://formen1.com:8080/live/rasit35/35rasit/1145.ts
+#EXTINF:-1,Uk | Itv3
+http://formen1.com:8080/live/rasit35/35rasit/1144.ts
+#EXTINF:-1,Uk | Itv4
+http://formen1.com:8080/live/rasit35/35rasit/1143.ts
+#EXTINF:-1,Uk | Movies 4men
+http://formen1.com:8080/live/rasit35/35rasit/1111.ts
+#EXTINF:-1,Uk | Nationalgeographic
+http://formen1.com:8080/live/rasit35/35rasit/1124.ts
+#EXTINF:-1,Uk | Racing
+http://formen1.com:8080/live/rasit35/35rasit/1116.ts
+#EXTINF:-1,Uk | Rte One
+http://formen1.com:8080/live/rasit35/35rasit/1104.ts
+#EXTINF:-1,Uk | Rte Two
+http://formen1.com:8080/live/rasit35/35rasit/1103.ts
+#EXTINF:-1,Uk | Yesterday
+http://formen1.com:8080/live/rasit35/35rasit/1102.ts
+#EXTINF:-1,USA HBO Signature
+http://rb-group-server.com:25461/444777/777444/3711
+#EXTINF:-1,USA HBO
+http://rb-group-server.com:25461/444777/777444/3710
+#EXTINF:-1,USA HBO FAMILY
+http://rb-group-server.com:25461/444777/777444/3709
+#EXTINF:-1,USA HBO ZONE
+http://rb-group-server.com:25461/444777/777444/3708
+#EXTINF:-1,USA A&E
+http://rb-group-server.com:25461/444777/777444/3704
+#EXTINF:-1,ABC
+http://rb-group-server.com:25461/444777/777444/3719
+#EXTINF:-1,USA ABC NEWS
+http://rb-group-server.com:25461/444777/777444/3720
+#EXTINF:-1,USA CBS
+http://rb-group-server.com:25461/444777/777444/3721
+#EXTINF:-1,USA NBC
+http://rb-group-server.com:25461/444777/777444/3724
+#EXTINF:-1,USA AFN Movie
+http://rb-group-server.com:25461/444777/777444/3696
+#EXTINF:-1,USA CineMax
+http://rb-group-server.com:25461/444777/777444/3699
+#EXTINF:-1,USA Bloomberg
+http://rb-group-server.com:25461/444777/777444/3694
+#EXTINF:-1,USA Bravo
+http://rb-group-server.com:25461/444777/777444/3693
+#EXTINF:-1,USA CNBC
+http://rb-group-server.com:25461/444777/777444/3722
+#EXTINF:-1,USA CW
+http://rb-group-server.com:25461/444777/777444/3706
+#EXTINF:-1,USA ESPN
+http://rb-group-server.com:25461/444777/777444/3692
+#EXTINF:-1,USA ESPN 2
+http://rb-group-server.com:25461/444777/777444/3691
+#EXTINF:-1,USA FOX
+http://rb-group-server.com:25461/444777/777444/3718
+#EXTINF:-1,USA Fox News
+http://rb-group-server.com:25461/444777/777444/3717
+#EXTINF:-1,USA FoxSports 1
+http://rb-group-server.com:25461/444777/777444/3716
+#EXTINF:-1,USA Fox Sports 2 HD
+http://rb-group-server.com:25461/444777/777444/3715
+#EXTINF:-1,USA FX
+http://rb-group-server.com:25461/444777/777444/3697
+#EXTINF:-1,USA Hallmark
+http://rb-group-server.com:25461/444777/777444/3698
+#EXTINF:-1,USA HISTORY
+http://rb-group-server.com:25461/444777/777444/3686
+#EXTINF:-1,USA MTV Live
+http://rb-group-server.com:25461/444777/777444/3687
+#EXTINF:-1,USA NBA TV
+http://rb-group-server.com:25461/444777/777444/3690
+#EXTINF:-1,USA NFL NETWORK
+http://rb-group-server.com:25461/444777/777444/3689
+#EXTINF:-1,USA SHOWTIME SHOWCASE
+http://rb-group-server.com:25461/444777/777444/3713
+#EXTINF:-1,USA STARZ CINEMA
+http://rb-group-server.com:25461/444777/777444/3703
+#EXTINF:-1,USA STARZ COMEDY
+http://rb-group-server.com:25461/444777/777444/3702
+#EXTINF:-1,USA NETWORK
+http://rb-group-server.com:25461/444777/777444/3705
+#EXTINF:-1,USA STARZ ENCORE
+http://rb-group-server.com:25461/444777/777444/3701
+#EXTINF:-1,USA SYFY
+http://rb-group-server.com:25461/444777/777444/3700
+#EXTINF:-1,USA WWEHD
+http://rb-group-server.com:25461/444777/777444/3695
+#EXTINF:-1,CA-TSN1
+http://rb-group-server.com:25461/444777/777444/3684
+#EXTINF:-1,CA-TSN2
+http://rb-group-server.com:25461/444777/777444/3683
+#EXTINF:-1,CA-TSN3
+http://rb-group-server.com:25461/444777/777444/3682
+#EXTINF:-1,CA-TSN4
+http://rb-group-server.com:25461/444777/777444/3681
+#EXTINF:-1,CA-TSN5
+http://rb-group-server.com:25461/444777/777444/3680
+#EXTINF:-1,CA-FOX EAST
+http://rb-group-server.com:25461/444777/777444/6800
+#EXTINF:-1,CA-ABC WEST
+http://rb-group-server.com:25461/444777/777444/6790
+#EXTINF:-1,CA-AMC
+http://rb-group-server.com:25461/444777/777444/6791
+#EXTINF:-1,CA-NBC WEST
+http://rb-group-server.com:25461/444777/777444/6806
+#EXTINF:-1,CA-MSNBC
+http://rb-group-server.com:25461/444777/777444/6803
+#EXTINF:-1,CA-Animal Planet
+http://rb-group-server.com:25461/444777/777444/6792
+#EXTINF:-1,CA-HISTORY
+http://rb-group-server.com:25461/444777/777444/6801
+#EXTINF:-1,CA-Sportsnet One
+http://rb-group-server.com:25461/444777/777444/6808
+#EXTINF:-1,CA-Sportsnet 360
+http://rb-group-server.com:25461/444777/777444/6807
+#EXTINF:-1,CA-Sportsnet World
+http://rb-group-server.com:25461/444777/777444/6810
+#EXTINF:-1,CA-Sportsnet Ontario
+http://rb-group-server.com:25461/444777/777444/6809
